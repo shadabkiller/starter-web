@@ -1,0 +1,1 @@
+Hey everyone! Initializr is going to retire at the end of 2017. I'd recommend using H5BP or Bootstrap directly instead. It doesn't take that long to combine them together and you'll get more up-to-date versions of those. Thank you for using Initializr all these years!
